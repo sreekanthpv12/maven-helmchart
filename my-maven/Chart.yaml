@@ -1,0 +1,5 @@
+appVersion: v1
+name: my-maven
+version: 0.1.0
+description: my cutom maven chart
+
